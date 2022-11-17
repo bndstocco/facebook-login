@@ -151,4 +151,8 @@ h4 {
 h1 {
   font-weight: bold;
 }
+
+.formulario2{
+  display: inline-block;
+}
 </style>
